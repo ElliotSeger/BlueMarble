@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BlueMarble.Libraries
 {
-    class TextureLibrary
+    class SoundLibrary
     {
     }
 }

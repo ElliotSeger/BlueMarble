@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlueMarble.Libraries
+namespace BlueMarble.Creatures.HostileCreatures
 {
-    class TextureLibrary
+    class HostileCreature : Creature
     {
     }
 }

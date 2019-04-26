@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlueMarble.Objects.Creatures.Enemies
+namespace BlueMarble.Creatures.NormalCreatures
 {
-    class Enemy
+    class NormalCreature : Creature
     {
     }
 }
