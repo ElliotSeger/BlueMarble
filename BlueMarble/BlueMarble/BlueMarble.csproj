@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="Abilities\Ability.cs" />
     <Compile Include="Abilities\BasicAbility.cs" />
+    <Compile Include="Libraries\SoundLibrary.cs" />
+    <Compile Include="Libraries\TextureLibrary.cs" />
     <Compile Include="Objects\Creatures\Creature.cs" />
     <Compile Include="Objects\Creatures\HostileCreatures\HostileCreature.cs" />
     <Compile Include="Objects\Creatures\NormalCreatures\NormalCreature.cs" />
